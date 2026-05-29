@@ -1,0 +1,9 @@
+# ヤマト運賃取得モジュール 追加依存パッケージ
+# pip install -r requirements_yamato.txt
+
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+lxml>=5.0.0
+pandas>=2.0.0
+openpyxl>=3.1.0
+streamlit>=1.35.0
